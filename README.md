@@ -4,5 +4,5 @@
 
 **YOLO11** model for segmentation of animals in images from trap photos
 
-**Dataset**: (link isn't mine)
-https://www.kaggle.com/datasets/artemgoncarov/animals-augmentations-segmentation-data
+**Dataset**:
+https://www.kaggle.com/datasets/artemgoncarov/animals-augmentations-segmentation-data (link isn't mine)
