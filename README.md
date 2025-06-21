@@ -1,6 +1,6 @@
 # animals_segmentation
 
-##🥉 3rd place in the student track of the "AI Academy hackathon 2025"
+## 🥉 3rd place in the student track of the "AI Academy hackathon 2025"
 
 **YOLO11** model for segmentation of animals in images from trap photos
 
